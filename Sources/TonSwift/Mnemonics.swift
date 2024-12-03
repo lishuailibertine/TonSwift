@@ -6,9 +6,8 @@
 //
 
 import Foundation
-import BIP39swift
 import CommonCrypto
-
+import web3swift
 
 public struct Mnemonics {
     
