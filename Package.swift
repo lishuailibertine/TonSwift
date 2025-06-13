@@ -18,7 +18,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(name: "TweetNacl", url: "https://github.com/lishuailibertine/tweetnacl-swiftwrap", from: "1.0.5"),
-        .package(url: "https://github.com/lishuailibertine/web3swift", .exact("1.0.0")),
+        .package(url: "https://github.com/lishuailibertine/web3swift", .exact("2.0.1")),
         .package(url: "https://github.com/mxcl/PromiseKit.git", .upToNextMajor(from: "8.1.1")),
         .package(url: "https://github.com/attaswift/BigInt.git", from: "5.3.0"),
         .package(url: "https://github.com/Flight-School/AnyCodable.git", .exact("0.6.1")),
